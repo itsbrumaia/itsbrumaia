@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itsbrumaia
+- 👀 eu estou interessado em aprender novas linguagens de programação 
+- 🌱 estou aprendendo a linguagem JavaScript e Scratch 
+- 📫 meu email de contato é bruna.santana.maia@escola.pr.gov.br
